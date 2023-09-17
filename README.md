@@ -1,4 +1,4 @@
-# Introduction-to-Machine-Learning-coursework
+# ECE421-coursework
 
 ## About
 This repository contains my code for coursework of the course [ECE421]([http://www.cs.toronto.edu/~guerzhoy/180/](https://engineering.calendar.utoronto.ca/course/ece421h1)): Introduction to Machine Learning (Fall 2023).
